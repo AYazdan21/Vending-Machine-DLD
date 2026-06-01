@@ -215,7 +215,7 @@ This project is available for educational purposes. Feel free to use and modify 
 
 ## Author
 
-Digital Logic Design Course Project
+Amirreza Yazdanpanah
 
 ## Acknowledgments
 
