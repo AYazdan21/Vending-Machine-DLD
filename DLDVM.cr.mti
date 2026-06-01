@@ -1,0 +1,15 @@
+{C:/Users/Amirreza Yazdanpanah/Desktop/LDProject1403/vending_machine.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Amirreza Yazdanpanah/Desktop/LDProject1403/vending_machine.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module vending_machine
+
+Top level modules:
+	vending_machine
+
+} {} {}} {C:/Users/Amirreza Yazdanpanah/Desktop/LDProject1403/vending_machine_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Amirreza Yazdanpanah/Desktop/LDProject1403/vending_machine_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module vending_machine_tb
+
+Top level modules:
+	vending_machine_tb
+
+} {} {}}
